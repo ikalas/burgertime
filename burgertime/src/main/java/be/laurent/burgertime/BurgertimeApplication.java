@@ -12,6 +12,8 @@ public class BurgertimeApplication {
 		HamburgerDAO hamburger = new HamburgerDAO();
 		hamburger.Connect();
 
+		/*commentaire test*/
+
 	}
 
 }
